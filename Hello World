@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+main() {
+	char a;
+	scanf("%c",&a);
+	if(a == '\n'){
+	printf("Hello world");
+	}
+}
